@@ -8,7 +8,10 @@ Full write up can be accessed here: https://www.biorxiv.org/content/10.1101/8555
 
 Submitted in part completion for Part III MSci Degree in physics, University of Cambridge. 
 
-Author: Tom George
-Date: June 2019
-Correspondence: tomgeorge1@btinternet.com 
-To use: [oVAErianCancer.ipynb](./oVAErianCancer.ipynb) gives a walk through of the code and how to use it. 
+_Author_: Tom George
+
+_Date_: June 2019
+
+_Correspondence_: tomgeorge1@btinternet.com 
+
+_To use_: [oVAErianCancer.ipynb](./oVAErianCancer.ipynb) gives a walk through of the code and how to use it. 
